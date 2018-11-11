@@ -1,0 +1,14 @@
+D:\Projetos C#\RestWithASP.netUDEMY\RestWithASP.netUDEMY\RestWithASP.netUDEMY\bin\Debug\netcoreapp2.1\RestWithASP.netUDEMY.deps.json
+D:\Projetos C#\RestWithASP.netUDEMY\RestWithASP.netUDEMY\RestWithASP.netUDEMY\bin\Debug\netcoreapp2.1\RestWithASP.netUDEMY.runtimeconfig.json
+D:\Projetos C#\RestWithASP.netUDEMY\RestWithASP.netUDEMY\RestWithASP.netUDEMY\bin\Debug\netcoreapp2.1\RestWithASP.netUDEMY.runtimeconfig.dev.json
+D:\Projetos C#\RestWithASP.netUDEMY\RestWithASP.netUDEMY\RestWithASP.netUDEMY\bin\Debug\netcoreapp2.1\RestWithASP.netUDEMY.dll
+D:\Projetos C#\RestWithASP.netUDEMY\RestWithASP.netUDEMY\RestWithASP.netUDEMY\bin\Debug\netcoreapp2.1\RestWithASP.netUDEMY.pdb
+D:\Projetos C#\RestWithASP.netUDEMY\RestWithASP.netUDEMY\RestWithASP.netUDEMY\obj\Debug\netcoreapp2.1\RestWithASP.netUDEMY.csprojAssemblyReference.cache
+D:\Projetos C#\RestWithASP.netUDEMY\RestWithASP.netUDEMY\RestWithASP.netUDEMY\obj\Debug\netcoreapp2.1\RestWithASP.netUDEMY.csproj.CoreCompileInputs.cache
+D:\Projetos C#\RestWithASP.netUDEMY\RestWithASP.netUDEMY\RestWithASP.netUDEMY\obj\Debug\netcoreapp2.1\RestWithASP.netUDEMY.RazorAssemblyInfo.cache
+D:\Projetos C#\RestWithASP.netUDEMY\RestWithASP.netUDEMY\RestWithASP.netUDEMY\obj\Debug\netcoreapp2.1\RestWithASP.netUDEMY.RazorAssemblyInfo.cs
+D:\Projetos C#\RestWithASP.netUDEMY\RestWithASP.netUDEMY\RestWithASP.netUDEMY\obj\Debug\netcoreapp2.1\RestWithASP.netUDEMY.AssemblyInfoInputs.cache
+D:\Projetos C#\RestWithASP.netUDEMY\RestWithASP.netUDEMY\RestWithASP.netUDEMY\obj\Debug\netcoreapp2.1\RestWithASP.netUDEMY.AssemblyInfo.cs
+D:\Projetos C#\RestWithASP.netUDEMY\RestWithASP.netUDEMY\RestWithASP.netUDEMY\obj\Debug\netcoreapp2.1\RestWithASP.netUDEMY.RazorTargetAssemblyInfo.cache
+D:\Projetos C#\RestWithASP.netUDEMY\RestWithASP.netUDEMY\RestWithASP.netUDEMY\obj\Debug\netcoreapp2.1\RestWithASP.netUDEMY.dll
+D:\Projetos C#\RestWithASP.netUDEMY\RestWithASP.netUDEMY\RestWithASP.netUDEMY\obj\Debug\netcoreapp2.1\RestWithASP.netUDEMY.pdb

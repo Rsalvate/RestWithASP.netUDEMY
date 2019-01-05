@@ -1,12 +1,13 @@
 ﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using RestWithASP.netUDEMY.Business;
+using RestWithASP.netUDEMY.Business.Implementattions;
 using RestWithASP.netUDEMY.Model.Context;
-using RestWithASP.netUDEMY.Services;
-using RestWithASP.netUDEMY.Services.Implementattions;
+using RestWithASP.netUDEMY.Repository;
+using RestWithASP.netUDEMY.Repository.Implementattions;
 
 namespace RestWithASP.netUDEMY
 {
@@ -30,7 +31,8 @@ namespace RestWithASP.netUDEMY
             services.AddApiVersioning();
 
             //Dependency Injection
-            services.AddScoped<IPersonService, PersonServiceImpl>();
+            services.AddScoped<IPersonBusiness, PersonBusinessImpl>();
+            services.AddScoped<IPersonRepository, PersonRepositoryImpl>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

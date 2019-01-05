@@ -4,13 +4,13 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace RestWithASP.netUDEMY.Services.Implementattions
+namespace RestWithASP.netUDEMY.Repository.Implementattions
 {
-    public class PersonServiceImpl : IPersonService
+    public class PersonRepositoryImpl : IPersonRepository
     {
         private MySQLContext _context;
 
-        public PersonServiceImpl(MySQLContext context)
+        public PersonRepositoryImpl(MySQLContext context)
         {
             _context = context;
         }
@@ -77,7 +77,7 @@ namespace RestWithASP.netUDEMY.Services.Implementattions
             return person;
         }
 
-        private bool Exist(long? id)
+        public bool Exist(long? id)
         {
             return _context.Persons.Any(s => s.Id.Equals(id));
         }

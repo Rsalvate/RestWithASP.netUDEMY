@@ -1,9 +1,9 @@
 ﻿using RestWithASP.netUDEMY.Model;
 using System.Collections.Generic;
 
-namespace RestWithASP.netUDEMY.Services
+namespace RestWithASP.netUDEMY.Business
 {
-    public interface IPersonService
+    public interface IPersonBusiness
     {
         Person Create(Person person);
         Person FindById(long id);
